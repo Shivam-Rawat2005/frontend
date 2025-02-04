@@ -1,0 +1,27 @@
+h1:hover{
+     background-color: white;
+}
+h2:hover{
+    background-color: white;
+}
+h3:hover{
+    background-color: white;
+}
+
+p{
+    background-color: rgb(14, 9, 1);
+}
+
+div:hover{
+    border-style: groove;
+    border-width: 25px;
+    background-color: rgb(16, 5, 5);
+    padding: 25px;
+    border-color: rgb(111, 124, 119);
+    margin: 10px 100px;
+    font-style: oblique;
+    border-right: 30px solid rgb(179, 215, 230);
+    border-left: 30px solid rgb(126, 136, 177);
+    border-top: 30px solid rgb(60, 13, 35);
+    border-bottom: 30px solid rgb(100, 120, 100);
+}
